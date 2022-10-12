@@ -1,0 +1,19 @@
+{
+  "name": "search-lit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "button": "github:NightWingC/button-lit",
+    "card": "github:NightWingC/card-lit",
+    "icons": "github:NightWingC/icons-lit",
+    "input": "github:NightWingC/input-lit",
+    "lit-element": "^3.2.2",
+    "select": "github:NightWingC/select-lit"
+  }
+}
